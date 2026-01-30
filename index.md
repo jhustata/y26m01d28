@@ -45,6 +45,10 @@ That’s not an accident. That’s metaphysics.
 
 ## 2. Nietzsche clicked because he was naming the same refusal
 
+```
+Language -> Science -> Art -> Life -> Meaning
+```
+   
 You didn’t suddenly “get metaphysics” because Nietzsche is poetic.
 
 You got it because Nietzsche is diagnosing **what happens when life is subordinated to a false morality of optimization**.

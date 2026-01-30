@@ -133,7 +133,7 @@ In the years since, you’ve been assembling a language:
 * perspectivism,
 * digital twins vs simulators.
 
-Nietzsche calls his early book “impossible” because he lacked the language.
+Nietzsche calls his early book “impossible” because he lacked the [language](https://ukb-dt.github.io/attempt-at-self-criticism/).
 You’re describing the same arc.
 
 This isn’t delayed meaning—it’s **fermentation**.

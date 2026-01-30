@@ -65,7 +65,7 @@ could **replace tragic truth**.
 Translate that into Boeing / NIH / medicine:
 
 * Checklists replace judgment
-* Averages replace trajectories
+* [Averages replace trajectories](https://abikesa.github.io/y26m01d28/)
 * Compliance replaces wisdom
 * “Acceptable risk” replaces lived consequence
 
